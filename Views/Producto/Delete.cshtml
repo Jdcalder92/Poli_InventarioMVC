@@ -1,0 +1,45 @@
+@model InventatioMVC.Models.Productos
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Eliminar</h2>
+
+<h3>Esta seguro de eliminar esto?</h3>
+<div>
+    <h4>Productos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Marca)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Marca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Unidad_Medida)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Unidad_Medida)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Peso_KG)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Peso_KG)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

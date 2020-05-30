@@ -1,0 +1,30 @@
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\InventarioMVC.deps.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.dev.json
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\bin\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfoInputs.cache
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfo.cs
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\obj\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\juandiego.calderon\Downloads\CRUD.With.VSCode.EF-master\CRUD.With.VSCode.EF-master\obj\Debug\netcoreapp2.0\InventarioMVC.csprojAssemblyReference.cache
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.deps.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.dev.json
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.csprojAssemblyReference.cache
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfoInputs.cache
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfo.cs
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\Documents\POLIGRAM\INTEGRACION CONTINUA\Poli.InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
