@@ -11,6 +11,8 @@ using InventatioMVC.Models;
 
 namespace InventatioMVC
 {
+
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
