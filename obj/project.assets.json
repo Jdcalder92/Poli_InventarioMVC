@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v2.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -13108,7 +13108,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v2.0": [
+    ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
@@ -13122,11 +13122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
+      "projectUniqueName": "C:\\Users\\juandiego.calderon\\source\\repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
       "projectName": "InventarioMVC",
-      "projectPath": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
+      "projectPath": "C:\\Users\\juandiego.calderon\\source\\repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
       "packagesPath": "C:\\Users\\juandiego.calderon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\obj\\",
+      "outputPath": "C:\\Users\\juandiego.calderon\\source\\repos\\Jdcalder92\\Poli_InventarioMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13138,7 +13138,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp2.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -13146,7 +13146,7 @@
         "https://nuget.telerik.com/nuget": {}
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -13157,7 +13157,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp2.0": {
+      "netcoreapp3.1": {
         "dependencies": {
           "Microsoft.AspNetCore.All": {
             "target": "Package",

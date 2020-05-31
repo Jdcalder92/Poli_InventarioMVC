@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KECwX8z9FgbLMTw+4OHxJSw2EaaRUTMlI1gkIo1s6MSndYcfPTkRTRq9TpVtAaky4pmcmhdSQLKLebmvd9LONA==",
+  "dgSpecHash": "5e88xLK97cgKXXzXmYhUgqGsOuD5kOtF27Gwv2Aermr1/RXCO/KbtlXn38E5vlsnvrYFiNaGeTcykIDnSSsxog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
+  "projectFilePath": "C:\\Users\\juandiego.calderon\\source\\repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juandiego.calderon\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\juandiego.calderon\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
