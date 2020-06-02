@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
+    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {
+    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "projectName": "InventarioMVC",
-        "projectPath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "packagesPath": "C:\\Users\\jrianocastan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\obj\\",
+        "outputPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
