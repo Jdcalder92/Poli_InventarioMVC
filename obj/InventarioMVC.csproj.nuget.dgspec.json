@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
+    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {
+    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectUniqueName": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "projectName": "InventarioMVC",
-        "projectPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
-        "packagesPath": "C:\\Users\\jrianocastan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\obj\\",
+        "projectPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jrianocastan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
