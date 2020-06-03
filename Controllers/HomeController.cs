@@ -24,7 +24,7 @@ namespace InventatioMVC.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Pagina de contacto.";
 
             return View();
         }
