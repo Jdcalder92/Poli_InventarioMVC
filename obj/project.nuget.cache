@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNKbVODtUpVVrNfv6wBxVTX/QHF3+ScWjq9mkixy+76ySl+Kk0oYeSrK0A6Y1/Zw8GsAeTt8sEq+qrZlK0mccw==",
+  "dgSpecHash": "iX5foYETezSL12xF2YKvsQK2/PwiC/bvosb0IkzFfeG/lDYIYUKDmE30iWsyhlOSAMShAyKuXBScfsxnp+54mw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
+  "projectFilePath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrianocastan\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
     "C:\\Users\\jrianocastan\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
