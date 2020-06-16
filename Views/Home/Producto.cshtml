@@ -1,0 +1,13 @@
+public void FormEvents_Loading(object sender, LoadingEventArgs e)
+ {
+     XPathNavigator dataSource;
+     dataSource = this.MainDataSource.CreateNavigator();
+     dataSource.SelectSingleNode(
+         "/my:myFields/my:employee", NamespaceManager).SetValue(this.User.UserName);
+ }
+  Public Sub FormEvents_Loading(ByVal sender As Object, ByVal e As LoadingEventArgs)
+     Dim dataSource As XPathNavigator
+     dataSource = Me.MainDataSource.CreateNavigator
+     dataSource.SelectSingleNode( _
+         "/my:myFields/my:employee", NamespaceManager).SetValue(Me.User.UserName)
+ End Sub
