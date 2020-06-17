@@ -62,3 +62,20 @@ C:\Users\Home\Documents\Poli_InventarioMVC\Poli_InventarioMVC\obj\Debug\netcorea
 C:\Users\Home\Documents\Poli_InventarioMVC\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.dll
 C:\Users\Home\Documents\Poli_InventarioMVC\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
 C:\Users\Home\Documents\Poli_InventarioMVC\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\InventarioMVC.deps.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.dev.json
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\bin\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.csprojAssemblyReference.cache
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfoInputs.cache
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfo.cs
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.csproj.CoreCompileInputs.cache
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
