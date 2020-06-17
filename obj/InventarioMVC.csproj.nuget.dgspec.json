@@ -1,34 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
+    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj": {
+    "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "projectName": "InventarioMVC",
-        "projectPath": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\InventarioMVC.csproj",
-        "packagesPath": "C:\\Users\\juandiego.calderon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juandiego.calderon\\Source\\Repos\\Jdcalder92\\Poli_InventarioMVC\\obj\\",
+        "projectPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "packagesPath": "C:\\Users\\jrianocastan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\juandiego.calderon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jrianocastan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
