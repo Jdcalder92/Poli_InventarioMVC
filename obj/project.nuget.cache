@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrPm5XOlxzV+GO7oQKBSsE3oHxySWoRmBD5Tv15ADbZwpbaeWoGfIWFFqVC+NUH38t9AuIDsY7ZyBv0TECZBiw==",
+  "dgSpecHash": "gg42jG3ceglxfk5nLgr3nOAhyy6B20DWK5L/5bvdQJihyAEMJeupRJ6/M8XZOPlOzMjcr41fVslhD2BvlJ1kOg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC-1\\InventarioMVC.csproj",
+  "projectFilePath": "C:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC-1\\InventarioMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrianocastan\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\jrianocastan\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
