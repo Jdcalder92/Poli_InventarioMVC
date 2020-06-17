@@ -2,6 +2,24 @@
     ViewData["Title"] = "About";
 }
 <h2>@ViewData["Title"]</h2>
-<h3>@ViewData["Message"]</h3>
 
-<p>Use this area to provide additional information.</p>
+
+<p>Para agregar información se debe agregar el producto junto a las caracteristicas dadas </p>
+<form>
+    <fieldset>
+        <legend>Categoria de empresa</legend>
+        <p>
+            <input type="radio" name="size" id="size_1" value="small">
+            <label for="size_1">Pequeña</label>
+        </p>
+        <p>
+            <input type="radio" name="size" id="size_2" value="medium">
+            <label for="size_2">Mediano</label>
+        </p>
+        <p>
+            <input type="radio" name="size" id="size_3" value="large">
+            <label for="size_3">Grande</label>
+        </p>
+    </fieldset>
+</form>
+

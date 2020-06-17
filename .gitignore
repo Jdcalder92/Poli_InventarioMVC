@@ -2,8 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/InventarioMVC/config
 /bin/Debug/netcoreapp2.1
 /obj/Debug/netcoreapp2.1
 /obj/Release/netcoreapp2.1
-/Properties/PublishProfiles
