@@ -1,0 +1,17 @@
+C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC
+--output-path=obj\Release\netcoreapp2.2\
+--application-name=InventarioMVC
+--content-root=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Home\About.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Home\Contact.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Home\Index.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Producto\Create.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Producto\Delete.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Producto\Details.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Producto\Edit.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Producto\Index.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Shared\Error.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Shared\_Layout.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\_ViewImports.cshtml
+--file=C:\Users\juandiego.calderon\Source\Repos\Jdcalder92\Poli_InventarioMVC\Views\_ViewStart.cshtml
