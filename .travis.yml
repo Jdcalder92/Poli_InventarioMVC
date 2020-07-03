@@ -11,6 +11,6 @@ script:
 
 deploy:
  - provider: azure_web_apps
-  on:
-      tags: true
-      all_branches: true
+ on:
+  tags: true
+  all_branches: true
