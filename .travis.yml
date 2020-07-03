@@ -9,6 +9,7 @@ install:
 script:
  - dotnet build
  
+ 
  deploy:
   provider: azure_web_apps
   skip_cleanup: true
