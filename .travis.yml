@@ -11,6 +11,5 @@ script:
   
 deploy:
         - provider: azure_web_apps
-          skip_cleanup: true
           on:
             all_branches: true
