@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axhy/O397Yz7utAfdtQS/hAD+ii2gB+uz5sYM59pNoXh5PRoDZ78vu5PmSUtGy27jqMbWzjIvIxxrnI0c9hhJw==",
+  "dgSpecHash": "rYmObugJ8tWIzp0zF4+iBiPISh/4qtSuKcJ1yQrxzwIbRolYQVC9Cxrd56uNx03+TvWy7u5ifp1E95HmLHFnEA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC-1\\InventarioMVC.csproj",
+  "projectFilePath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
