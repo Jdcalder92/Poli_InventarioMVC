@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
+    "C:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {
+    "C:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "projectName": "InventarioMVC",
-        "projectPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectPath": "C:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
