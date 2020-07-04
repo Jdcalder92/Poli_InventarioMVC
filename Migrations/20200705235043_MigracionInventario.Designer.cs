@@ -7,12 +7,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
 using System;
 
-namespace InventatioMVC.Migrations
+namespace InventarioMVC.Migrations
 {
     [DbContext(typeof(MvcProductoContext))]
-    partial class MvcProductoContextModelSnapshot : ModelSnapshot
+    [Migration("20200705235043_MigracionInventario")]
+    partial class MigracionInventario
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {}
+    "C:\\Users\\Alejandro\\Documents\\Documentos Juliana\\InventarioMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj": {
+    "C:\\Users\\Alejandro\\Documents\\Documentos Juliana\\InventarioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Documentos Juliana\\InventarioMVC.csproj",
         "projectName": "InventarioMVC",
-        "projectPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\InventarioMVC.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Home\\Documents\\Poli_InventarioMVC\\Poli_InventarioMVC\\obj\\",
+        "projectPath": "C:\\Users\\Alejandro\\Documents\\Documentos Juliana\\InventarioMVC.csproj",
+        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro\\Documents\\Documentos Juliana\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,7 +43,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -51,7 +61,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.0.4, )"
             }
           },
           "imports": [
@@ -64,7 +74,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

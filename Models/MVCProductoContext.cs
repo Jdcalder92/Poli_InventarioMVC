@@ -10,6 +10,7 @@ namespace InventatioMVC.Models
         }
 
         public DbSet<InventatioMVC.Models.Productos> Producto { get; set; }
+        public DbSet<InventatioMVC.Models.Inventario> Inventario { get; set; }
     }
 }
 

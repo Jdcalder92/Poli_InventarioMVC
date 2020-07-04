@@ -79,3 +79,20 @@ C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO S
 C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.dll
 C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
 C:\Users\jrianocastan\OneDrive - DXC Production\INGENIERIA DE SOFTWARE\SEGUNDO SEMESTRE\INTEGRACIÓN CONTINUA\Poli_InventarioMVC-1\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\InventarioMVC.deps.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\Alejandro\Documents\Documentos Juliana\bin\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.csproj.CoreCompileInputs.cache
