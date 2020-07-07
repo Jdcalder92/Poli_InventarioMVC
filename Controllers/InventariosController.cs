@@ -75,7 +75,7 @@ namespace InventarioMVC.Controllers
                 return NotFound();
             }
 
-            var inventario = await _context.Inventario.SingleOrDefaultAsync(m => m.Id == id);
+            var inventario = await _context.Inventario.Include(p=> p.Productos).SingleOrDefaultAsync(m => m.Id == id);
             if (inventario == null)
             {
                 return NotFound();
@@ -88,7 +88,7 @@ namespace InventarioMVC.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Cantidad")] Inventario inventario)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Cantidad,ProductosId")] Inventario inventario)
         {
             if (id != inventario.Id)
             {
