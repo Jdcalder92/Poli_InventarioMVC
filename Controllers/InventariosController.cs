@@ -21,7 +21,7 @@ namespace InventarioMVC.Controllers
         // GET: Inventarios
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Inventario.ToListAsync());
+            return View(await _context.Inventario.Include(p => p.Productos).ToListAsync());
         }
 
         // GET: Inventarios/Details/5
@@ -45,6 +45,9 @@ namespace InventarioMVC.Controllers
         // GET: Inventarios/Create
         public IActionResult Create()
         {
+
+            ViewBag.ProductoList =  _context.Producto.ToList();
+
             return View();
         }
 
@@ -53,7 +56,7 @@ namespace InventarioMVC.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Cantidad")] Inventario inventario)
+        public async Task<IActionResult> Create([Bind("Id,Cantidad,ProductosId")] Inventario inventario)
         {
             if (ModelState.IsValid)
             {

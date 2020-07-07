@@ -96,3 +96,20 @@ C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\Inventar
 C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
 C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
 C:\Users\Alejandro\Documents\Documentos Juliana\obj\Debug\netcoreapp2.0\InventarioMVC.csproj.CoreCompileInputs.cache
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.deps.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.runtimeconfig.dev.json
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\bin\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.csprojAssemblyReference.cache
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfoInputs.cache
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.AssemblyInfo.cs
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.csproj.CoreCompileInputs.cache
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.dll
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.pdb
+C:\Users\juandiego.calderon\source\repos\Jdcalder92\Poli_InventarioMVC\obj\Debug\netcoreapp2.0\InventarioMVC.genruntimeconfig.cache
