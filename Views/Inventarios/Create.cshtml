@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h2>Create</h2>
+<h2>Agregar</h2>
 
 <h4>Inventario</h4>
 <hr />
@@ -16,7 +16,7 @@
                 <label asp-for="Productos" class="control-label"></label>
                 <select asp-for="ProductosId" class="form-control"
                         asp-items="@(new SelectList(ViewBag.ProductoList,"Id","Nombre"))">
-                    <option>Please select one</option>
+                    <option>Seleccionar</option>
                 </select>
                 <span asp-validation-for="Productos" class="text-danger"></span>
 
